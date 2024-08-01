@@ -71,141 +71,159 @@ graph [
   ]
   edge [
     source 0
-    target 5
-    key 0
-    label "-0.22"
-  ]
-  edge [
-    source 0
-    target 6
-    key 0
-    label "-0.18"
-  ]
-  edge [
-    source 0
-    target 8
-    key 0
-    label "0.18"
-  ]
-  edge [
-    source 0
-    target 9
-    key 0
-    label "0.10"
-  ]
-  edge [
-    source 0
-    target 10
-    key 0
-    label "0.35"
-  ]
-  edge [
-    source 0
     target 14
     key 0
     label "0.27"
   ]
   edge [
     source 2
+    target 4
+    key 0
+    label "0.15"
+  ]
+  edge [
+    source 2
     target 6
     key 0
     label "-0.14"
   ]
   edge [
     source 2
+    target 9
+    key 0
+    label "-0.09"
+  ]
+  edge [
+    source 2
+    target 11
+    key 0
+    label "-0.08"
+  ]
+  edge [
+    source 2
     target 14
     key 0
-    label "0.05"
+    label "0.07"
   ]
   edge [
     source 3
-    target 4
+    target 5
+    key 0
+    label "0.31"
+  ]
+  edge [
+    source 3
+    target 10
+    key 0
+    label "-0.23"
+  ]
+  edge [
+    source 3
+    target 11
+    key 0
+    label "0.24"
+  ]
+  edge [
+    source 3
+    target 15
+    key 0
+    label "0.13"
+  ]
+  edge [
+    source 4
+    target 3
+    key 0
+    label "0.53"
+  ]
+  edge [
+    source 4
+    target 7
+    key 0
+    label "-0.09"
+  ]
+  edge [
+    source 4
+    target 13
     key 0
     label "0.45"
   ]
   edge [
     source 5
-    target 3
+    target 0
     key 0
-    label "0.12"
+    label "-0.18"
   ]
   edge [
     source 5
     target 12
     key 0
-    label "-0.21"
+    label "-0.24"
+  ]
+  edge [
+    source 5
+    target 13
+    key 0
+    label "0.22"
   ]
   edge [
     source 6
-    target 8
+    target 0
     key 0
-    label "0.16"
+    label "-0.17"
   ]
   edge [
     source 6
     target 11
     key 0
-    label "-0.13"
+    label "-0.16"
   ]
   edge [
     source 6
     target 15
+    key 0
+    label "0.05"
+  ]
+  edge [
+    source 7
+    target 9
     key 0
     label "0.10"
   ]
   edge [
     source 7
-    target 3
-    key 0
-    label "-0.14"
-  ]
-  edge [
-    source 7
-    target 9
-    key 0
-    label "0.15"
-  ]
-  edge [
-    source 7
     target 10
     key 0
-    label "-0.18"
+    label "-0.24"
   ]
   edge [
     source 7
     target 12
     key 0
-    label "0.36"
+    label "0.41"
   ]
   edge [
     source 7
     target 15
     key 0
-    label "0.16"
+    label "0.14"
   ]
   edge [
     source 8
     target 9
     key 0
-    label "0.13"
+    label "0.12"
   ]
   edge [
     source 8
     target 10
     key 0
-    label "0.29"
-  ]
-  edge [
-    source 8
-    target 11
-    key 0
-    label "0.12"
+    label "0.30"
   ]
   edge [
     source 8
     target 14
     key 0
-    label "0.11"
+    label "0.12"
   ]
   edge [
     source 8
@@ -215,39 +233,45 @@ graph [
   ]
   edge [
     source 9
-    target 4
-    key 0
-    label "-0.10"
-  ]
-  edge [
-    source 9
     target 10
     key 0
-    label "0.19"
+    label "0.22"
   ]
   edge [
     source 9
     target 11
     key 0
-    label "0.31"
+    label "0.25"
+  ]
+  edge [
+    source 9
+    target 13
+    key 0
+    label "0.16"
   ]
   edge [
     source 10
-    target 3
+    target 0
     key 0
-    label "-0.32"
+    label "0.41"
+  ]
+  edge [
+    source 10
+    target 11
+    key 0
+    label "0.16"
   ]
   edge [
     source 10
     target 12
     key 0
-    label "-0.12"
+    label "-0.08"
   ]
   edge [
     source 10
     target 15
     key 0
-    label "0.15"
+    label "0.18"
   ]
   edge [
     source 11
@@ -257,50 +281,32 @@ graph [
   ]
   edge [
     source 11
-    target 12
-    key 0
-    label "0.21"
-  ]
-  edge [
-    source 11
     target 15
     key 0
-    label "0.14"
+    label "0.08"
   ]
   edge [
-    source 13
-    target 4
+    source 12
+    target 11
     key 0
-    label "0.31"
-  ]
-  edge [
-    source 13
-    target 5
-    key 0
-    label "0.27"
+    label "0.30"
   ]
   edge [
     source 13
     target 11
     key 0
-    label "-0.11"
+    label "-0.09"
   ]
   edge [
     source 13
     target 14
     key 0
-    label "0.11"
+    label "0.13"
   ]
   edge [
     source 13
     target 15
     key 0
-    label "0.21"
-  ]
-  edge [
-    source 15
-    target 3
-    key 0
-    label "0.27"
+    label "0.12"
   ]
 ]
